@@ -1,0 +1,19 @@
+/*
+Theme Name: WP Base Theme
+Theme URI: #
+Description: Basic Packes for theme development
+Author: Moe Sanjari
+Author URI: #
+Version: 1.0.0
+License: GPL-2.0+
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: WordPress Base Theme
+Domain Path: -
+Tags: blog, portfolio, responsive
+*/
+
+
+#wpadminbar {
+  display: none;
+}
+
